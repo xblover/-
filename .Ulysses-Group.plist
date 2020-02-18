@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>Redis实战</string>
+	</array>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>Redis实战</key>
+			<dict>
+				<key>lastModification</key>
+				<real>603708101.28760898</real>
+				<key>version</key>
+				<dict>
+					<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>sheetClusters</key>
+		<dict/>
+	</dict>
+	<key>sheetClusters</key>
+	<array/>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+			<integer>3</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

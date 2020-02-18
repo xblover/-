@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<integer>1</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>603708097.43884897</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>使用Redis构建Web应用.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>603708206.51775706</real>
+				<key>version</key>
+				<dict>
+					<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>使用Redis构建Web应用.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
