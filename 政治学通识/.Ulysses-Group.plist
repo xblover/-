@@ -2,54 +2,54 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>childOrder</key>
-	<array>
-		<string>政治学通识</string>
-		<string>Redis实战</string>
-	</array>
+	<key>createMarkedFile</key>
+	<integer>1</integer>
 	<key>resolutionData</key>
 	<dict>
-		<key>childOrder</key>
+		<key>createMarkedFile</key>
+		<real>603708909.65576696</real>
+		<key>sheetClusters</key>
 		<dict>
-			<key>Redis实战</key>
+			<key>碎笔记.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>603708101.28760898</real>
+				<real>603709002.23158395</real>
 				<key>version</key>
 				<dict>
 					<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
 					<integer>3</integer>
 				</dict>
 			</dict>
-			<key>政治学通识</key>
-			<dict>
-				<key>lastModification</key>
-				<real>603708932.03679204</real>
-				<key>version</key>
-				<dict>
-					<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
-					<integer>6</integer>
-				</dict>
-			</dict>
 		</dict>
-		<key>sheetClusters</key>
-		<dict/>
+		<key>userIconName</key>
+		<real>603708914.28473401</real>
 	</dict>
 	<key>sheetClusters</key>
-	<array/>
+	<array>
+		<array>
+			<string>碎笔记.md</string>
+		</array>
+	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
+	<key>userIconName</key>
+	<string>Folder</string>
 	<key>versioning</key>
 	<dict>
-		<key>childOrder</key>
-		<dict>
-			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
-			<integer>6</integer>
-		</dict>
-		<key>sheetClusters</key>
+		<key>createMarkedFile</key>
 		<dict>
 			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
 			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+			<integer>4</integer>
+		</dict>
+		<key>userIconName</key>
+		<dict>
+			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
