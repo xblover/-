@@ -4,6 +4,8 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>毛泽东选集</string>
+		<string>软件设计的哲学</string>
 		<string>政治学通识</string>
 		<string>Redis实战</string>
 	</array>
@@ -31,6 +33,26 @@
 					<integer>6</integer>
 				</dict>
 			</dict>
+			<key>毛泽东选集</key>
+			<dict>
+				<key>lastModification</key>
+				<real>603736450.43993199</real>
+				<key>version</key>
+				<dict>
+					<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
+			<key>软件设计的哲学</key>
+			<dict>
+				<key>lastModification</key>
+				<real>603725149.552477</real>
+				<key>version</key>
+				<dict>
+					<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetClusters</key>
 		<dict/>
@@ -44,7 +66,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>502f869bbbd38e4c2f6e19276ff10fc11a0b9f249258c853de3744f75cd94030</key>
-			<integer>6</integer>
+			<integer>12</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
